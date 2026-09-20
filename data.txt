@@ -7,6 +7,6 @@
       "lib_name": "libNerox.so",
       "download_url": "https://rampanel.x10.mx/Farlight/libNerox.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
+    }
   ]
 }
